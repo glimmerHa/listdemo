@@ -23,3 +23,8 @@
 1. git config --local user.name 'xxx'
 2. git config --local user.email 'xxxx@xx.xx'
 
+
+#### 分支操作
+##### 某分支上一个commit
+
+1. git cherry-pick [commitid]
